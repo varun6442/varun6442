@@ -30,7 +30,7 @@ Happy to connect! 😊
 ---
 
 ### 🚀 My Projects
-- [Edemy](https://github.com/YourUsername/Edemy): An e-learning platform built with React and Node.js.
-- [PlayPals](https://github.com/YourUsername/PlayPals): Real-time collaborative platform with chat functionality.
+- [Edemy](https://github.com/varun6442/Edemy): An e-learning platform built with React and Node.js.
+- [PlayPals](https://github.com/varun6442/PlayPals): Real-time collaborative platform with chat functionality.
   
 
