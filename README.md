@@ -8,7 +8,7 @@ Currently a Full stack developer at Cognizant Technology Solutions. I have pursu
 - Email ID: [varunreddy6442@gmail.com](mailto:varunreddy6442@gmail.com)
 - LinkedIn: [LinkedIn Profile] https://www.linkedin.com/in/varun-reddy-565705232/
 
-Happy to connect! 😊
+Looking forward to connect! 😊
 
 ---
 
