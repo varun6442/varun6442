@@ -10,7 +10,6 @@ I've also built multiple academic projects, including Edemy, a full-stack, SEO-o
 
 ### 🌐 Connect with me
 - Email ID: [varunreddy6442@gmail.com](mailto:varunreddy6442@gmail.com)
-- LinkedIn: [LinkedIn Profile] https://www.linkedin.com/in/varun-reddy-565705232/
 
 Looking forward to connect! 😊
 
