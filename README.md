@@ -2,7 +2,7 @@
 
 A software engineer with a strong background in data science and software development. I completed my Master’s in Computational Science from Saint Peter’s University, focusing on data science and software engineering, where I maintained a GPA of 3.8/4.0. Before that, I earned my Bachelor’s in Computer Science from Visvesvaraya Technological University, India.
 
-My professional journey began at Wipro, where I worked as a Software Associate, primarily developing scalable CRM systems using Java and Spring Boot. I then moved to Cognizant,  Full Stack Developer, focusing on healthcare management platforms, ArcGis, integrating MongoDB, Spring Security, and RESTful APIs.
+My professional journey began at Wipro, where I worked as a Software Associate, primarily developing scalable CRM systems using Java and Spring Boot. I then moved to the United States where I finished my masters and currentlyworking as a  Full Stack Developer, focusing on healthcare management platforms, integrating MongoDB, Spring Security, and RESTful APIs.
 
 I've also built multiple academic projects, including Edemy, a full-stack, SEO-optimized learning platform, and PlayPals, a microservices-based sports management application. I have experience working with a wide range of technologies, including JavaScript, React, Node.js, cloud infrastructure like AWS and GCP, and various DevOps tools.
 
